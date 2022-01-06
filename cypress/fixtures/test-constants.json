@@ -1,0 +1,10 @@
+{
+  "urls": {
+    "login_url": "/auth/login",
+    "signup_url": "/auth/signup",
+    "forgot_password_url": "/auth/forgot-password",
+    "privacy_url": "/privacy-policy",
+    "terms_url": "/terms",
+    "dashboard_url": "/dashboard"
+  }
+}
